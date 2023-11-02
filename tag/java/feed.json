@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "一切都是過程 • All posts by \"java\" tag",
+    "description": "",
+    "home_page_url": "https://superrjohn.github.io/John",
+    "items": [
+        {
+            "id": "https://superrjohn.github.io/John/2023/10/26/java/test_java",
+            "url": "https://superrjohn.github.io/John/2023/10/26/java/test_java",
+            "title": "Hello Java!",
+            "date_published": "2023-10-26T14:10:33.494Z",
+            "content_html": "<p>Welcome to <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvLw==\">Hexo</span>! This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<p>🍉 目前只是當做分類，還沒想到內容～</p>\n",
+            "tags": [
+                "java"
+            ]
+        }
+    ]
+}
