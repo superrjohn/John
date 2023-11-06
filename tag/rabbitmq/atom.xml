@@ -5,14 +5,13 @@
     <link href="https://superrjohn.github.io/John" />
     <updated>2023-10-26T14:18:33.325Z</updated>
     <category term="hexo" />
-    <category term="java" />
     <category term="SpringSecurity" />
-    <category term="RabbitMQ" />
-    <category term="Radis" />
     <category term="SpringMVC" />
     <category term="Pinia" />
     <category term="Vue2" />
     <category term="SpringBoot" />
+    <category term="Radis" />
+    <category term="RabbitMQ" />
     <entry>
         <id>https://superrjohn.github.io/John/2023/10/26/java/rabbitmq/rabbitmq</id>
         <title>Hello RabbitMq!</title>

@@ -8,14 +8,13 @@
         <pubDate>Sun, 22 Oct 2023 16:24:11 +0800</pubDate>
         <lastBuildDate>Sun, 22 Oct 2023 16:24:11 +0800</lastBuildDate>
         <category>hexo</category>
-        <category>java</category>
         <category>SpringSecurity</category>
-        <category>RabbitMQ</category>
-        <category>Radis</category>
         <category>SpringMVC</category>
         <category>Pinia</category>
         <category>Vue2</category>
         <category>SpringBoot</category>
+        <category>Radis</category>
+        <category>RabbitMQ</category>
         <item>
             <guid isPermalink="true">https://superrjohn.github.io/John/2023/10/22/hexo/Hexo</guid>
             <title>Hexo快速部署!</title>

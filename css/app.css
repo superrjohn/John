@@ -2234,6 +2234,12 @@ use.stop-animation {
 .social .item.github i {
   color: #191717;
 }
+.social .item.music::before {
+  background-color: #e60026;
+}
+.social .item.music i {
+  color: #e60026;
+}
 .social .item.youtube::before {
   background-color: #e60026;
 }
