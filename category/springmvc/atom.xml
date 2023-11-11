@@ -4,14 +4,15 @@
     <title>一切都是過程 • Posts by &#34;springmvc&#34; category</title>
     <link href="https://superrjohn.github.io/John" />
     <updated>2023-10-27T09:24:46.659Z</updated>
-    <category term="hexo" />
     <category term="SpringSecurity" />
+    <category term="hexo" />
+    <category term="RabbitMQ" />
+    <category term="支付" />
+    <category term="Radis" />
     <category term="SpringMVC" />
     <category term="Pinia" />
     <category term="Vue2" />
     <category term="SpringBoot" />
-    <category term="Radis" />
-    <category term="RabbitMQ" />
     <entry>
         <id>https://superrjohn.github.io/John/2023/10/27/java/springMVC/UserBook-Web</id>
         <title>手寫springMVC!</title>
