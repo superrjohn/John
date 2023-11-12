@@ -4,20 +4,20 @@
     <title>一切都是過程 • Posts by &#34;rabbitmq&#34; tag</title>
     <link href="https://superrjohn.github.io/John" />
     <updated>2023-10-26T14:18:33.325Z</updated>
-    <category term="SpringSecurity" />
     <category term="hexo" />
     <category term="RabbitMQ" />
-    <category term="支付" />
     <category term="Radis" />
+    <category term="SpringSecurity" />
     <category term="SpringMVC" />
     <category term="Pinia" />
     <category term="Vue2" />
     <category term="SpringBoot" />
+    <category term="支付" />
     <entry>
         <id>https://superrjohn.github.io/John/2023/10/26/java/rabbitmq/rabbitmq</id>
         <title>Hello RabbitMq!</title>
         <link rel="alternate" href="https://superrjohn.github.io/John/2023/10/26/java/rabbitmq/rabbitmq"/>
-        <content type="html">&lt;p&gt;ToDo&lt;/p&gt;
+        <content type="html">&lt;p&gt;ToDo: 待做&lt;/p&gt;
 </content>
         <category term="RabbitMQ" />
         <updated>2023-10-26T14:18:33.325Z</updated>

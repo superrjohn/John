@@ -4,15 +4,15 @@
     <title>一切都是過程 • Posts by &#34;中間件&#34; category</title>
     <link href="https://superrjohn.github.io/John" />
     <updated>2023-11-07T14:59:14.136Z</updated>
-    <category term="SpringSecurity" />
     <category term="hexo" />
     <category term="RabbitMQ" />
-    <category term="支付" />
     <category term="Radis" />
+    <category term="SpringSecurity" />
     <category term="SpringMVC" />
     <category term="Pinia" />
     <category term="Vue2" />
     <category term="SpringBoot" />
+    <category term="支付" />
     <entry>
         <id>https://superrjohn.github.io/John/2023/11/07/java/radis/redis_interview</id>
         <title>Redis面試題整理</title>
@@ -95,7 +95,7 @@ LRU: 最近最少使用，用當前時間減去最後一次訪問時間，值愈
         <id>https://superrjohn.github.io/John/2023/10/26/java/rabbitmq/rabbitmq</id>
         <title>Hello RabbitMq!</title>
         <link rel="alternate" href="https://superrjohn.github.io/John/2023/10/26/java/rabbitmq/rabbitmq"/>
-        <content type="html">&lt;p&gt;ToDo&lt;/p&gt;
+        <content type="html">&lt;p&gt;ToDo: 待做&lt;/p&gt;
 </content>
         <category term="RabbitMQ" />
         <updated>2023-10-26T14:18:33.325Z</updated>

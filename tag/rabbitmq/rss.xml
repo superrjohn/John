@@ -7,22 +7,22 @@
         <language>zh-TW</language>
         <pubDate>Thu, 26 Oct 2023 22:18:33 +0800</pubDate>
         <lastBuildDate>Thu, 26 Oct 2023 22:18:33 +0800</lastBuildDate>
-        <category>SpringSecurity</category>
         <category>hexo</category>
         <category>RabbitMQ</category>
-        <category>支付</category>
         <category>Radis</category>
+        <category>SpringSecurity</category>
         <category>SpringMVC</category>
         <category>Pinia</category>
         <category>Vue2</category>
         <category>SpringBoot</category>
+        <category>支付</category>
         <item>
             <guid isPermalink="true">https://superrjohn.github.io/John/2023/10/26/java/rabbitmq/rabbitmq</guid>
             <title>Hello RabbitMq!</title>
             <link>https://superrjohn.github.io/John/2023/10/26/java/rabbitmq/rabbitmq</link>
             <category>RabbitMQ</category>
             <pubDate>Thu, 26 Oct 2023 22:18:33 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;ToDo&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;ToDo: 待做&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
