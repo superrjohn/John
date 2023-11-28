@@ -5,14 +5,14 @@
     <link href="https://superrjohn.github.io/John" />
     <updated>2023-11-08T09:27:06.236Z</updated>
     <category term="hexo" />
-    <category term="RabbitMQ" />
-    <category term="Radis" />
-    <category term="SpringSecurity" />
     <category term="SpringMVC" />
     <category term="Pinia" />
     <category term="Vue2" />
     <category term="SpringBoot" />
+    <category term="SpringSecurity" />
+    <category term="Radis" />
     <category term="支付" />
+    <category term="RabbitMQ" />
     <entry>
         <id>https://superrjohn.github.io/John/2023/11/08/java/pay/alipay</id>
         <title>整合支付寶</title>

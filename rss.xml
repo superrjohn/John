@@ -8,14 +8,14 @@
         <pubDate>Wed, 08 Nov 2023 17:27:06 +0800</pubDate>
         <lastBuildDate>Wed, 08 Nov 2023 17:27:06 +0800</lastBuildDate>
         <category>hexo</category>
-        <category>RabbitMQ</category>
-        <category>Radis</category>
-        <category>SpringSecurity</category>
         <category>SpringMVC</category>
         <category>Pinia</category>
         <category>Vue2</category>
         <category>SpringBoot</category>
+        <category>SpringSecurity</category>
+        <category>Radis</category>
         <category>支付</category>
+        <category>RabbitMQ</category>
         <item>
             <guid isPermalink="true">https://superrjohn.github.io/John/2023/11/08/java/pay/alipay</guid>
             <title>整合支付寶</title>
