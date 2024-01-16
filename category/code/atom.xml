@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://superrjohn.github.io/John</id>
+    <title>一切都是過程 • Posts by &#34;code&#34; category</title>
+    <link href="https://superrjohn.github.io/John" />
+    <updated>2024-01-16T10:58:45.130Z</updated>
+    <category term="code" />
+    <category term="SpringSecurity" />
+    <category term="docker" />
+    <category term="hexo" />
+    <category term="支付" />
+    <category term="RabbitMQ" />
+    <category term="Radis" />
+    <category term="SpringMVC" />
+    <category term="Pinia" />
+    <category term="Vue2" />
+    <category term="SpringBoot" />
+    <entry>
+        <id>https://superrjohn.github.io/John/2024/01/16/code/code1</id>
+        <title>遞迴刷題</title>
+        <link rel="alternate" href="https://superrjohn.github.io/John/2024/01/16/code/code1"/>
+        <content type="html">&lt;h1 id=&#34;心得&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#心得&#34;&gt;#&lt;/a&gt; 心得&lt;/h1&gt;
+&lt;p&gt;🔴剛學的一些心得，自學選對教材很重要，因為算法很抽象，好的老師能幫你具體化去解題。&lt;/p&gt;
+&lt;p&gt;🔴遞歸心得：在還不熟練的時候，不要坐著想遞歸過程，因為只會讓你更想不明白。所以想不明白最好用簡單例子畫圖或者把遞歸過程的寫出來，清清楚楚看到具體流程，才能讓自己更好了解遞歸。&lt;br&gt;
+當熟練後，不用再關心微觀過程，只關心整體過程即可，即退出的條件、下游的參數。&lt;/p&gt;
+&lt;p&gt;1.&lt;img data-src=&#34;/John/img/code/code1/1.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;img data-src=&#34;/John/img/code/code1/2.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;img data-src=&#34;/John/img/code/code1/3.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;4.&lt;img data-src=&#34;/John/img/code/code1/4.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;5.&lt;img data-src=&#34;/John/img/code/code1/5.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;6.&lt;img data-src=&#34;/John/img/code/code1/6.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="code" />
+        <updated>2024-01-16T10:58:45.130Z</updated>
+    </entry>
+</feed>

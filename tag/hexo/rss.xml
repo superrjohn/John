@@ -5,23 +5,25 @@
         <link>https://superrjohn.github.io/John</link>
         <description></description>
         <language>zh-TW</language>
-        <pubDate>Sun, 22 Oct 2023 16:24:11 +0800</pubDate>
-        <lastBuildDate>Sun, 22 Oct 2023 16:24:11 +0800</lastBuildDate>
+        <pubDate>Tue, 16 Jan 2024 18:54:22 +0800</pubDate>
+        <lastBuildDate>Tue, 16 Jan 2024 18:54:22 +0800</lastBuildDate>
+        <category>code</category>
+        <category>SpringSecurity</category>
+        <category>docker</category>
         <category>hexo</category>
+        <category>支付</category>
+        <category>RabbitMQ</category>
+        <category>Radis</category>
         <category>SpringMVC</category>
         <category>Pinia</category>
         <category>Vue2</category>
         <category>SpringBoot</category>
-        <category>SpringSecurity</category>
-        <category>Radis</category>
-        <category>支付</category>
-        <category>RabbitMQ</category>
         <item>
-            <guid isPermalink="true">https://superrjohn.github.io/John/2023/10/22/hexo/Hexo</guid>
+            <guid isPermalink="true">https://superrjohn.github.io/John/2024/01/16/java/hexo/Hexo</guid>
             <title>Hexo快速部署!</title>
-            <link>https://superrjohn.github.io/John/2023/10/22/hexo/Hexo</link>
+            <link>https://superrjohn.github.io/John/2024/01/16/java/hexo/Hexo</link>
             <category>hexo</category>
-            <pubDate>Sun, 22 Oct 2023 16:24:11 +0800</pubDate>
+            <pubDate>Tue, 16 Jan 2024 18:54:22 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;前言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h2&gt;
 &lt;p&gt;想部署一個自己的網站的原因，是因為某天在學 JAVA 項目時遇到很多 BUG, 就滑評論區找解決方案，然後被我找到一個大神，他把學習過程都放在自己的網站上，我覺得很酷，所以也打算效仿～那這篇主要是記錄一下部署過程踩坑的地方。&lt;/p&gt;
 &lt;h2 id=&#34;hexo部署&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo部署&#34;&gt;#&lt;/a&gt; Hexo 部署&lt;/h2&gt;

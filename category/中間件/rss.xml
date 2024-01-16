@@ -7,15 +7,17 @@
         <language>zh-TW</language>
         <pubDate>Tue, 07 Nov 2023 22:59:14 +0800</pubDate>
         <lastBuildDate>Tue, 07 Nov 2023 22:59:14 +0800</lastBuildDate>
+        <category>code</category>
+        <category>SpringSecurity</category>
+        <category>docker</category>
         <category>hexo</category>
+        <category>支付</category>
+        <category>RabbitMQ</category>
+        <category>Radis</category>
         <category>SpringMVC</category>
         <category>Pinia</category>
         <category>Vue2</category>
         <category>SpringBoot</category>
-        <category>SpringSecurity</category>
-        <category>Radis</category>
-        <category>支付</category>
-        <category>RabbitMQ</category>
         <item>
             <guid isPermalink="true">https://superrjohn.github.io/John/2023/11/07/java/radis/redis_interview</guid>
             <title>Redis面試題整理</title>

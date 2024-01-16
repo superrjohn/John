@@ -3,20 +3,22 @@
     <id>https://superrjohn.github.io/John</id>
     <title>一切都是過程 • Posts by &#34;hexo&#34; tag</title>
     <link href="https://superrjohn.github.io/John" />
-    <updated>2023-10-22T08:24:11.599Z</updated>
+    <updated>2024-01-16T10:54:22.514Z</updated>
+    <category term="code" />
+    <category term="SpringSecurity" />
+    <category term="docker" />
     <category term="hexo" />
+    <category term="支付" />
+    <category term="RabbitMQ" />
+    <category term="Radis" />
     <category term="SpringMVC" />
     <category term="Pinia" />
     <category term="Vue2" />
     <category term="SpringBoot" />
-    <category term="SpringSecurity" />
-    <category term="Radis" />
-    <category term="支付" />
-    <category term="RabbitMQ" />
     <entry>
-        <id>https://superrjohn.github.io/John/2023/10/22/hexo/Hexo</id>
+        <id>https://superrjohn.github.io/John/2024/01/16/java/hexo/Hexo</id>
         <title>Hexo快速部署!</title>
-        <link rel="alternate" href="https://superrjohn.github.io/John/2023/10/22/hexo/Hexo"/>
+        <link rel="alternate" href="https://superrjohn.github.io/John/2024/01/16/java/hexo/Hexo"/>
         <content type="html">&lt;h2 id=&#34;前言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h2&gt;
 &lt;p&gt;想部署一個自己的網站的原因，是因為某天在學 JAVA 項目時遇到很多 BUG, 就滑評論區找解決方案，然後被我找到一個大神，他把學習過程都放在自己的網站上，我覺得很酷，所以也打算效仿～那這篇主要是記錄一下部署過程踩坑的地方。&lt;/p&gt;
 &lt;h2 id=&#34;hexo部署&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo部署&#34;&gt;#&lt;/a&gt; Hexo 部署&lt;/h2&gt;
@@ -50,6 +52,6 @@ Linux: Linux&lt;/p&gt;
 2.2&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93YWxpbmUuanMub3JnL2d1aWRlL2dldC1zdGFydGVkLw==&#34;&gt;Zeabur 快速上手&lt;/span&gt;，因為想設個評論發現了這個評論系統，覺得它蠻不錯的，還多功能的像是留言後會獲得通知，用戶安全性和留言限制等等，感覺有空可以再深入研究研究。&lt;/p&gt;
 &lt;img data-src=&#34;https://i.makeagif.com/media/9-15-2015/bQkqor.gif&#34; class=&#34;abc&#34; width=&#34;600&#34; height=&#34;350&#34;&gt;</content>
         <category term="hexo" />
-        <updated>2023-10-22T08:24:11.599Z</updated>
+        <updated>2024-01-16T10:54:22.514Z</updated>
     </entry>
 </feed>

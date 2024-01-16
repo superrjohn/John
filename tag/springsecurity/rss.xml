@@ -7,15 +7,17 @@
         <language>zh-TW</language>
         <pubDate>Fri, 03 Nov 2023 23:39:05 +0800</pubDate>
         <lastBuildDate>Fri, 03 Nov 2023 23:39:05 +0800</lastBuildDate>
+        <category>code</category>
+        <category>SpringSecurity</category>
+        <category>docker</category>
         <category>hexo</category>
+        <category>支付</category>
+        <category>RabbitMQ</category>
+        <category>Radis</category>
         <category>SpringMVC</category>
         <category>Pinia</category>
         <category>Vue2</category>
         <category>SpringBoot</category>
-        <category>SpringSecurity</category>
-        <category>Radis</category>
-        <category>支付</category>
-        <category>RabbitMQ</category>
         <item>
             <guid isPermalink="true">https://superrjohn.github.io/John/2023/11/03/java/SpringSecurity/WeChat_login</guid>
             <title>SpringSecurity 微信登錄</title>

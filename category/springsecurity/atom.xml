@@ -4,15 +4,17 @@
     <title>一切都是過程 • Posts by &#34;springsecurity&#34; category</title>
     <link href="https://superrjohn.github.io/John" />
     <updated>2023-11-03T15:39:05.235Z</updated>
+    <category term="code" />
+    <category term="SpringSecurity" />
+    <category term="docker" />
     <category term="hexo" />
+    <category term="支付" />
+    <category term="RabbitMQ" />
+    <category term="Radis" />
     <category term="SpringMVC" />
     <category term="Pinia" />
     <category term="Vue2" />
     <category term="SpringBoot" />
-    <category term="SpringSecurity" />
-    <category term="Radis" />
-    <category term="支付" />
-    <category term="RabbitMQ" />
     <entry>
         <id>https://superrjohn.github.io/John/2023/11/03/java/SpringSecurity/WeChat_login</id>
         <title>SpringSecurity 微信登錄</title>
