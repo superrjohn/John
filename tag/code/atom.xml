@@ -3,18 +3,38 @@
     <id>https://superrjohn.github.io/John</id>
     <title>一切都是過程 • Posts by &#34;code&#34; tag</title>
     <link href="https://superrjohn.github.io/John" />
-    <updated>2024-01-16T10:58:45.130Z</updated>
+    <updated>2024-03-13T14:27:40.316Z</updated>
     <category term="code" />
     <category term="SpringSecurity" />
     <category term="docker" />
-    <category term="hexo" />
     <category term="支付" />
     <category term="RabbitMQ" />
+    <category term="hexo" />
     <category term="Radis" />
     <category term="SpringMVC" />
     <category term="Pinia" />
     <category term="Vue2" />
     <category term="SpringBoot" />
+    <entry>
+        <id>https://superrjohn.github.io/John/2024/03/13/code/code2</id>
+        <title>歸併排序</title>
+        <link rel="alternate" href="https://superrjohn.github.io/John/2024/03/13/code/code2"/>
+        <content type="html">&lt;h1 id=&#34;心得&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#心得&#34;&gt;#&lt;/a&gt; 心得&lt;/h1&gt;
+&lt;p&gt;🔴歸併排序分左組和右組排序，左組內容排好序，右組內容排好序，左右組設一個指針，指針只會向前，所以歸併排序可以做到 &amp;quot;不回退&amp;quot;。&lt;/p&gt;
+&lt;p&gt;🔴通常題目要求在數組左邊或右邊搞事實，就能夠用歸併排序。&lt;/p&gt;
+&lt;p&gt;1.&lt;img data-src=&#34;/John/img/code/code2/1.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;img data-src=&#34;/John/img/code/code2/2.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;img data-src=&#34;/John/img/code/code2/3.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;4.&lt;img data-src=&#34;/John/img/code/code2/4.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;5.&lt;img data-src=&#34;/John/img/code/code2/5.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;6.&lt;img data-src=&#34;/John/img/code/code2/6.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;7.&lt;img data-src=&#34;/John/img/code/code2/7.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;8.&lt;img data-src=&#34;/John/img/code/code2/8.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;9.&lt;img data-src=&#34;/John/img/code/code2/9.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;img data-src=&#34;https://i.makeagif.com/media/9-15-2015/bQkqor.gif&#34; class=&#34;abc&#34; width=&#34;600&#34; height=&#34;350&#34;&gt;</content>
+        <category term="code" />
+        <updated>2024-03-13T14:27:40.316Z</updated>
+    </entry>
     <entry>
         <id>https://superrjohn.github.io/John/2024/01/16/code/code1</id>
         <title>遞迴刷題</title>
@@ -29,7 +49,7 @@
 &lt;p&gt;4.&lt;img data-src=&#34;/John/img/code/code1/4.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
 &lt;p&gt;5.&lt;img data-src=&#34;/John/img/code/code1/5.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
 &lt;p&gt;6.&lt;img data-src=&#34;/John/img/code/code1/6.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
-</content>
+&lt;img data-src=&#34;https://usagif.com/wp-content/uploads/gifs/thanks-for-watching-9.gif&#34; class=&#34;abc&#34; width=&#34;600&#34; height=&#34;350&#34;&gt;</content>
         <category term="code" />
         <updated>2024-01-16T10:58:45.130Z</updated>
     </entry>

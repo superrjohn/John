@@ -5,11 +5,21 @@
     "home_page_url": "https://superrjohn.github.io/John",
     "items": [
         {
+            "id": "https://superrjohn.github.io/John/2024/03/13/code/code2",
+            "url": "https://superrjohn.github.io/John/2024/03/13/code/code2",
+            "title": "歸併排序",
+            "date_published": "2024-03-13T14:27:40.316Z",
+            "content_html": "<h1 id=\"心得\"><a class=\"markdownIt-Anchor\" href=\"#心得\">#</a> 心得</h1>\n<p>🔴歸併排序分左組和右組排序，左組內容排好序，右組內容排好序，左右組設一個指針，指針只會向前，所以歸併排序可以做到 &quot;不回退&quot;。</p>\n<p>🔴通常題目要求在數組左邊或右邊搞事實，就能夠用歸併排序。</p>\n<p>1.<img data-src=\"/John/img/code/code2/1.png\" class=\"abc\"></p>\n<p>2.<img data-src=\"/John/img/code/code2/2.png\" class=\"abc\"></p>\n<p>3.<img data-src=\"/John/img/code/code2/3.png\" class=\"abc\"></p>\n<p>4.<img data-src=\"/John/img/code/code2/4.png\" class=\"abc\"></p>\n<p>5.<img data-src=\"/John/img/code/code2/5.png\" class=\"abc\"></p>\n<p>6.<img data-src=\"/John/img/code/code2/6.png\" class=\"abc\"></p>\n<p>7.<img data-src=\"/John/img/code/code2/7.png\" class=\"abc\"></p>\n<p>8.<img data-src=\"/John/img/code/code2/8.png\" class=\"abc\"></p>\n<p>9.<img data-src=\"/John/img/code/code2/9.png\" class=\"abc\"></p>\n<img data-src=\"https://i.makeagif.com/media/9-15-2015/bQkqor.gif\" class=\"abc\" width=\"600\" height=\"350\">",
+            "tags": [
+                "code"
+            ]
+        },
+        {
             "id": "https://superrjohn.github.io/John/2024/01/16/code/code1",
             "url": "https://superrjohn.github.io/John/2024/01/16/code/code1",
             "title": "遞迴刷題",
             "date_published": "2024-01-16T10:58:45.130Z",
-            "content_html": "<h1 id=\"心得\"><a class=\"markdownIt-Anchor\" href=\"#心得\">#</a> 心得</h1>\n<p>🔴剛學的一些心得，自學選對教材很重要，因為算法很抽象，好的老師能幫你具體化去解題。</p>\n<p>🔴遞歸心得：在還不熟練的時候，不要坐著想遞歸過程，因為只會讓你更想不明白。所以想不明白最好用簡單例子畫圖或者把遞歸過程的寫出來，清清楚楚看到具體流程，才能讓自己更好了解遞歸。<br>\n當熟練後，不用再關心微觀過程，只關心整體過程即可，即退出的條件、下游的參數。</p>\n<p>1.<img data-src=\"/John/img/code/code1/1.png\" class=\"abc\"></p>\n<p>2.<img data-src=\"/John/img/code/code1/2.png\" class=\"abc\"></p>\n<p>3.<img data-src=\"/John/img/code/code1/3.png\" class=\"abc\"></p>\n<p>4.<img data-src=\"/John/img/code/code1/4.png\" class=\"abc\"></p>\n<p>5.<img data-src=\"/John/img/code/code1/5.png\" class=\"abc\"></p>\n<p>6.<img data-src=\"/John/img/code/code1/6.png\" class=\"abc\"></p>\n",
+            "content_html": "<h1 id=\"心得\"><a class=\"markdownIt-Anchor\" href=\"#心得\">#</a> 心得</h1>\n<p>🔴剛學的一些心得，自學選對教材很重要，因為算法很抽象，好的老師能幫你具體化去解題。</p>\n<p>🔴遞歸心得：在還不熟練的時候，不要坐著想遞歸過程，因為只會讓你更想不明白。所以想不明白最好用簡單例子畫圖或者把遞歸過程的寫出來，清清楚楚看到具體流程，才能讓自己更好了解遞歸。<br>\n當熟練後，不用再關心微觀過程，只關心整體過程即可，即退出的條件、下游的參數。</p>\n<p>1.<img data-src=\"/John/img/code/code1/1.png\" class=\"abc\"></p>\n<p>2.<img data-src=\"/John/img/code/code1/2.png\" class=\"abc\"></p>\n<p>3.<img data-src=\"/John/img/code/code1/3.png\" class=\"abc\"></p>\n<p>4.<img data-src=\"/John/img/code/code1/4.png\" class=\"abc\"></p>\n<p>5.<img data-src=\"/John/img/code/code1/5.png\" class=\"abc\"></p>\n<p>6.<img data-src=\"/John/img/code/code1/6.png\" class=\"abc\"></p>\n<img data-src=\"https://usagif.com/wp-content/uploads/gifs/thanks-for-watching-9.gif\" class=\"abc\" width=\"600\" height=\"350\">",
             "tags": [
                 "code"
             ]
