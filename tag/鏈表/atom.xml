@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://superrjohn.github.io/John</id>
+    <title>一切都是過程 • Posts by &#34;鏈表&#34; tag</title>
+    <link href="https://superrjohn.github.io/John" />
+    <updated>2024-04-06T05:03:16.184Z</updated>
+    <category term="code" />
+    <category term="歸併" />
+    <category term="遞迴" />
+    <category term="堆" />
+    <category term="鏈表" />
+    <category term="二叉樹" />
+    <category term="SpringSecurity" />
+    <category term="docker" />
+    <category term="hexo" />
+    <category term="支付" />
+    <category term="RabbitMQ" />
+    <category term="Radis" />
+    <category term="SpringMVC" />
+    <category term="Pinia" />
+    <category term="Vue2" />
+    <category term="SpringBoot" />
+    <entry>
+        <id>https://superrjohn.github.io/John/2024/04/06/code/code3</id>
+        <title>堆、鏈表和二叉樹</title>
+        <link rel="alternate" href="https://superrjohn.github.io/John/2024/04/06/code/code3"/>
+        <content type="html">&lt;h1 id=&#34;心得&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#心得&#34;&gt;#&lt;/a&gt; 心得&lt;/h1&gt;
+&lt;p&gt;堆：必須會手寫堆，因為能大大提高堆的功能。&lt;br&gt;
+鏈表：純邏輯&lt;br&gt;
+二叉樹：從左樹要來訊息，從右樹要來訊息，返回給父，父再返回給上層，遞迴下去！&lt;/p&gt;
+&lt;p&gt;1.&lt;img data-src=&#34;/John/img/code/code3/1.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;img data-src=&#34;/John/img/code/code3/2.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;img data-src=&#34;/John/img/code/code3/3.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;4.&lt;img data-src=&#34;/John/img/code/code3/4.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;5.&lt;img data-src=&#34;/John/img/code/code3/5.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;6.&lt;img data-src=&#34;/John/img/code/code3/6.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;p&gt;7.&lt;img data-src=&#34;/John/img/code/code3/7.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+8.&lt;img data-src=&#34;/John/img/code/code3/8.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+9.&lt;img data-src=&#34;/John/img/code/code3/9.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+10.&lt;img data-src=&#34;/John/img/code/code3/10.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+11.&lt;img data-src=&#34;/John/img/code/code3/11.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+12.&lt;img data-src=&#34;/John/img/code/code3/12.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+13.&lt;img data-src=&#34;/John/img/code/code3/13.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+14.&lt;img data-src=&#34;/John/img/code/code3/14.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+15.&lt;img data-src=&#34;/John/img/code/code3/15.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+16.&lt;img data-src=&#34;/John/img/code/code3/16.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+17.&lt;img data-src=&#34;/John/img/code/code3/17.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+18.&lt;img data-src=&#34;/John/img/code/code3/18.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;img data-src=&#34;https://i.makeagif.com/media/9-15-2015/bQkqor.gif&#34; class=&#34;abc&#34; width=&#34;600&#34; height=&#34;350&#34;&gt;</content>
+        <category term="code" />
+        <category term="堆" />
+        <category term="鏈表" />
+        <category term="二叉樹" />
+        <updated>2024-04-06T05:03:16.184Z</updated>
+    </entry>
+</feed>

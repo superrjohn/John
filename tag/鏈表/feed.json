@@ -1,0 +1,21 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "一切都是過程 • All posts by \"鏈表\" tag",
+    "description": "",
+    "home_page_url": "https://superrjohn.github.io/John",
+    "items": [
+        {
+            "id": "https://superrjohn.github.io/John/2024/04/06/code/code3",
+            "url": "https://superrjohn.github.io/John/2024/04/06/code/code3",
+            "title": "堆、鏈表和二叉樹",
+            "date_published": "2024-04-06T05:03:16.184Z",
+            "content_html": "<h1 id=\"心得\"><a class=\"markdownIt-Anchor\" href=\"#心得\">#</a> 心得</h1>\n<p>堆：必須會手寫堆，因為能大大提高堆的功能。<br>\n鏈表：純邏輯<br>\n二叉樹：從左樹要來訊息，從右樹要來訊息，返回給父，父再返回給上層，遞迴下去！</p>\n<p>1.<img data-src=\"/John/img/code/code3/1.png\" class=\"abc\"></p>\n<p>2.<img data-src=\"/John/img/code/code3/2.png\" class=\"abc\"></p>\n<p>3.<img data-src=\"/John/img/code/code3/3.png\" class=\"abc\"></p>\n<p>4.<img data-src=\"/John/img/code/code3/4.png\" class=\"abc\"></p>\n<p>5.<img data-src=\"/John/img/code/code3/5.png\" class=\"abc\"></p>\n<p>6.<img data-src=\"/John/img/code/code3/6.png\" class=\"abc\"></p>\n<p>7.<img data-src=\"/John/img/code/code3/7.png\" class=\"abc\"><br>\n8.<img data-src=\"/John/img/code/code3/8.png\" class=\"abc\"><br>\n9.<img data-src=\"/John/img/code/code3/9.png\" class=\"abc\"><br>\n10.<img data-src=\"/John/img/code/code3/10.png\" class=\"abc\"><br>\n11.<img data-src=\"/John/img/code/code3/11.png\" class=\"abc\"><br>\n12.<img data-src=\"/John/img/code/code3/12.png\" class=\"abc\"><br>\n13.<img data-src=\"/John/img/code/code3/13.png\" class=\"abc\"><br>\n14.<img data-src=\"/John/img/code/code3/14.png\" class=\"abc\"><br>\n15.<img data-src=\"/John/img/code/code3/15.png\" class=\"abc\"><br>\n16.<img data-src=\"/John/img/code/code3/16.png\" class=\"abc\"><br>\n17.<img data-src=\"/John/img/code/code3/17.png\" class=\"abc\"><br>\n18.<img data-src=\"/John/img/code/code3/18.png\" class=\"abc\"></p>\n<img data-src=\"https://i.makeagif.com/media/9-15-2015/bQkqor.gif\" class=\"abc\" width=\"600\" height=\"350\">",
+            "tags": [
+                "code",
+                "堆",
+                "鏈表",
+                "二叉樹"
+            ]
+        }
+    ]
+}
