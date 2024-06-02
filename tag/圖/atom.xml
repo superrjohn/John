@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://superrjohn.github.io/John</id>
+    <title>一切都是過程 • Posts by &#34;圖&#34; tag</title>
+    <link href="https://superrjohn.github.io/John" />
+    <updated>2024-06-02T14:31:15.441Z</updated>
+    <category term="code" />
+    <category term="遞迴" />
+    <category term="歸併" />
+    <category term="圖" />
+    <category term="貪心" />
+    <category term="動態規劃" />
+    <category term="堆" />
+    <category term="鏈表" />
+    <category term="二叉樹" />
+    <category term="SpringSecurity" />
+    <category term="docker" />
+    <category term="hexo" />
+    <category term="RabbitMQ" />
+    <category term="支付" />
+    <category term="Radis" />
+    <category term="SpringMVC" />
+    <category term="Pinia" />
+    <category term="Vue2" />
+    <category term="SpringBoot" />
+    <entry>
+        <id>https://superrjohn.github.io/John/2024/06/02/code/code4</id>
+        <title>動態規劃、貪心表和圖</title>
+        <link rel="alternate" href="https://superrjohn.github.io/John/2024/06/02/code/code4"/>
+        <content type="html">&lt;h1 id=&#34;心得&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#心得&#34;&gt;#&lt;/a&gt; 心得&lt;/h1&gt;
+&lt;p&gt;🔴學了并查集、背包問題、機械人走路、貪心和 N 皇后問題等等，其實可以說都有套路去解，但是當自己做的時候一定是想不出來的，因為不夠熟！沒有思路和觀察結構太少，可以學老師把結構依賴都畫出來觀察，用簡單的結構去畫，這樣學得比較快。&lt;/p&gt;
+&lt;p&gt;🟡學到很多經典的題目，如果想活用這些題目從而用題目其中的知識點去解其他題，必然要很強的基礎和練習。一路學來我把體系班的題都刷了一遍，等我 2 刷加強知識點後，再開始學新知識點！&lt;/p&gt;
+&lt;p&gt;1.&lt;img data-src=&#34;/John/img/code/code4/1.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+2.&lt;img data-src=&#34;/John/img/code/code4/2.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+3.&lt;img data-src=&#34;/John/img/code/code4/3.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+4.&lt;img data-src=&#34;/John/img/code/code4/4.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+5.&lt;img data-src=&#34;/John/img/code/code4/5.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+6.&lt;img data-src=&#34;/John/img/code/code4/6.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+7.&lt;img data-src=&#34;/John/img/code/code4/7.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+8.&lt;img data-src=&#34;/John/img/code/code4/8.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+9.&lt;img data-src=&#34;/John/img/code/code4/9.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+10.&lt;img data-src=&#34;/John/img/code/code4/10.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+11.&lt;img data-src=&#34;/John/img/code/code4/11.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+12.&lt;img data-src=&#34;/John/img/code/code4/12.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+13.&lt;img data-src=&#34;/John/img/code/code4/13.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+14.&lt;img data-src=&#34;/John/img/code/code4/14.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+15.&lt;img data-src=&#34;/John/img/code/code4/15.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+16.&lt;img data-src=&#34;/John/img/code/code4/16.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;img data-src=&#34;https://usagif.com/wp-content/uploads/gifs/thanks-for-watching-9.gif&#34; class=&#34;abc&#34; width=&#34;600&#34; height=&#34;350&#34;&gt;</content>
+        <category term="code" />
+        <category term="圖" />
+        <category term="貪心" />
+        <category term="動態規劃" />
+        <updated>2024-06-02T14:31:15.441Z</updated>
+    </entry>
+</feed>

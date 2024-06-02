@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>一切都是過程 • Posts by &#34;圖&#34; tag</title>
+        <link>https://superrjohn.github.io/John</link>
+        <description></description>
+        <language>zh-TW</language>
+        <pubDate>Sun, 02 Jun 2024 22:31:15 +0800</pubDate>
+        <lastBuildDate>Sun, 02 Jun 2024 22:31:15 +0800</lastBuildDate>
+        <category>code</category>
+        <category>遞迴</category>
+        <category>歸併</category>
+        <category>圖</category>
+        <category>貪心</category>
+        <category>動態規劃</category>
+        <category>堆</category>
+        <category>鏈表</category>
+        <category>二叉樹</category>
+        <category>SpringSecurity</category>
+        <category>docker</category>
+        <category>hexo</category>
+        <category>RabbitMQ</category>
+        <category>支付</category>
+        <category>Radis</category>
+        <category>SpringMVC</category>
+        <category>Pinia</category>
+        <category>Vue2</category>
+        <category>SpringBoot</category>
+        <item>
+            <guid isPermalink="true">https://superrjohn.github.io/John/2024/06/02/code/code4</guid>
+            <title>動態規劃、貪心表和圖</title>
+            <link>https://superrjohn.github.io/John/2024/06/02/code/code4</link>
+            <category>code</category>
+            <category>圖</category>
+            <category>貪心</category>
+            <category>動態規劃</category>
+            <pubDate>Sun, 02 Jun 2024 22:31:15 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;心得&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#心得&#34;&gt;#&lt;/a&gt; 心得&lt;/h1&gt;
+&lt;p&gt;🔴學了并查集、背包問題、機械人走路、貪心和 N 皇后問題等等，其實可以說都有套路去解，但是當自己做的時候一定是想不出來的，因為不夠熟！沒有思路和觀察結構太少，可以學老師把結構依賴都畫出來觀察，用簡單的結構去畫，這樣學得比較快。&lt;/p&gt;
+&lt;p&gt;🟡學到很多經典的題目，如果想活用這些題目從而用題目其中的知識點去解其他題，必然要很強的基礎和練習。一路學來我把體系班的題都刷了一遍，等我 2 刷加強知識點後，再開始學新知識點！&lt;/p&gt;
+&lt;p&gt;1.&lt;img data-src=&#34;/John/img/code/code4/1.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+2.&lt;img data-src=&#34;/John/img/code/code4/2.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+3.&lt;img data-src=&#34;/John/img/code/code4/3.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+4.&lt;img data-src=&#34;/John/img/code/code4/4.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+5.&lt;img data-src=&#34;/John/img/code/code4/5.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+6.&lt;img data-src=&#34;/John/img/code/code4/6.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+7.&lt;img data-src=&#34;/John/img/code/code4/7.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+8.&lt;img data-src=&#34;/John/img/code/code4/8.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+9.&lt;img data-src=&#34;/John/img/code/code4/9.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+10.&lt;img data-src=&#34;/John/img/code/code4/10.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+11.&lt;img data-src=&#34;/John/img/code/code4/11.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+12.&lt;img data-src=&#34;/John/img/code/code4/12.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+13.&lt;img data-src=&#34;/John/img/code/code4/13.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+14.&lt;img data-src=&#34;/John/img/code/code4/14.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+15.&lt;img data-src=&#34;/John/img/code/code4/15.png&#34; class=&#34;abc&#34;&gt;&lt;br&gt;
+16.&lt;img data-src=&#34;/John/img/code/code4/16.png&#34; class=&#34;abc&#34;&gt;&lt;/p&gt;
+&lt;img data-src=&#34;https://usagif.com/wp-content/uploads/gifs/thanks-for-watching-9.gif&#34; class=&#34;abc&#34; width=&#34;600&#34; height=&#34;350&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>

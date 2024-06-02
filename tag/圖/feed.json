@@ -1,0 +1,21 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "一切都是過程 • All posts by \"圖\" tag",
+    "description": "",
+    "home_page_url": "https://superrjohn.github.io/John",
+    "items": [
+        {
+            "id": "https://superrjohn.github.io/John/2024/06/02/code/code4",
+            "url": "https://superrjohn.github.io/John/2024/06/02/code/code4",
+            "title": "動態規劃、貪心表和圖",
+            "date_published": "2024-06-02T14:31:15.441Z",
+            "content_html": "<h1 id=\"心得\"><a class=\"markdownIt-Anchor\" href=\"#心得\">#</a> 心得</h1>\n<p>🔴學了并查集、背包問題、機械人走路、貪心和 N 皇后問題等等，其實可以說都有套路去解，但是當自己做的時候一定是想不出來的，因為不夠熟！沒有思路和觀察結構太少，可以學老師把結構依賴都畫出來觀察，用簡單的結構去畫，這樣學得比較快。</p>\n<p>🟡學到很多經典的題目，如果想活用這些題目從而用題目其中的知識點去解其他題，必然要很強的基礎和練習。一路學來我把體系班的題都刷了一遍，等我 2 刷加強知識點後，再開始學新知識點！</p>\n<p>1.<img data-src=\"/John/img/code/code4/1.png\" class=\"abc\"><br>\n2.<img data-src=\"/John/img/code/code4/2.png\" class=\"abc\"><br>\n3.<img data-src=\"/John/img/code/code4/3.png\" class=\"abc\"><br>\n4.<img data-src=\"/John/img/code/code4/4.png\" class=\"abc\"><br>\n5.<img data-src=\"/John/img/code/code4/5.png\" class=\"abc\"><br>\n6.<img data-src=\"/John/img/code/code4/6.png\" class=\"abc\"><br>\n7.<img data-src=\"/John/img/code/code4/7.png\" class=\"abc\"><br>\n8.<img data-src=\"/John/img/code/code4/8.png\" class=\"abc\"><br>\n9.<img data-src=\"/John/img/code/code4/9.png\" class=\"abc\"><br>\n10.<img data-src=\"/John/img/code/code4/10.png\" class=\"abc\"><br>\n11.<img data-src=\"/John/img/code/code4/11.png\" class=\"abc\"><br>\n12.<img data-src=\"/John/img/code/code4/12.png\" class=\"abc\"><br>\n13.<img data-src=\"/John/img/code/code4/13.png\" class=\"abc\"><br>\n14.<img data-src=\"/John/img/code/code4/14.png\" class=\"abc\"><br>\n15.<img data-src=\"/John/img/code/code4/15.png\" class=\"abc\"><br>\n16.<img data-src=\"/John/img/code/code4/16.png\" class=\"abc\"></p>\n<img data-src=\"https://usagif.com/wp-content/uploads/gifs/thanks-for-watching-9.gif\" class=\"abc\" width=\"600\" height=\"350\">",
+            "tags": [
+                "code",
+                "圖",
+                "貪心",
+                "動態規劃"
+            ]
+        }
+    ]
+}
