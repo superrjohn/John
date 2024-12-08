@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://superrjohn.github.io/John</id>
+    <title>一切都是過程 • Posts by &#34;big data&#34; tag</title>
+    <link href="https://superrjohn.github.io/John" />
+    <updated>2024-12-08T17:22:48.948Z</updated>
+    <category term="code" />
+    <category term="歸併" />
+    <category term="遞迴" />
+    <category term="堆" />
+    <category term="鏈表" />
+    <category term="二叉樹" />
+    <category term="圖" />
+    <category term="貪心" />
+    <category term="動態規劃" />
+    <category term="SpringSecurity" />
+    <category term="docker" />
+    <category term="支付" />
+    <category term="Radis" />
+    <category term="RabbitMQ" />
+    <category term="hexo" />
+    <category term="SpringMVC" />
+    <category term="Pinia" />
+    <category term="Vue2" />
+    <category term="SpringBoot" />
+    <category term="big data" />
+    <category term="data analysis" />
+    <entry>
+        <id>https://superrjohn.github.io/John/2024/12/09/big_data/data_analysis1</id>
+        <title>數據分析流程</title>
+        <link rel="alternate" href="https://superrjohn.github.io/John/2024/12/09/big_data/data_analysis1"/>
+        <content type="html">&lt;p&gt;1️⃣: 爬蟲&lt;/p&gt;
+&lt;img data-src=&#34;/John/img/big_data/data_analysis1/1.png&#34; class=&#34;abc&#34;&gt;
+&lt;img data-src=&#34;/John/img/big_data/data_analysis1/2.png&#34; class=&#34;abc&#34;&gt;
+&lt;img data-src=&#34;/John/img/big_data/data_analysis1/3.png&#34; class=&#34;abc&#34;&gt;
+&lt;img data-src=&#34;/John/img/big_data/data_analysis1/4.png&#34; class=&#34;abc&#34;&gt;
+&lt;p&gt;2️⃣: 數據分析&lt;/p&gt;
+&lt;img data-src=&#34;/John/img/big_data/data_analysis1/5.png&#34; class=&#34;abc&#34;&gt;
+&lt;img data-src=&#34;/John/img/big_data/data_analysis1/6.png&#34; class=&#34;abc&#34;&gt;
+&lt;img data-src=&#34;/John/img/big_data/data_analysis1/7.png&#34; class=&#34;abc&#34;&gt;
+&lt;img data-src=&#34;/John/img/big_data/data_analysis1/8.png&#34; class=&#34;abc&#34;&gt;
+&lt;p&gt;3️⃣: 清洗數據&lt;/p&gt;
+&lt;img data-src=&#34;/John/img/big_data/data_analysis1/9.png&#34; class=&#34;abc&#34;&gt;
+&lt;img data-src=&#34;/John/img/big_data/data_analysis1/10.png&#34; class=&#34;abc&#34;&gt;
+&lt;img data-src=&#34;/John/img/big_data/data_analysis1/11.png&#34; class=&#34;abc&#34;&gt;
+&lt;img data-src=&#34;/John/img/big_data/data_analysis1/12.png&#34; class=&#34;abc&#34;&gt;</content>
+        <category term="big data" />
+        <category term="data analysis" />
+        <updated>2024-12-08T17:22:48.948Z</updated>
+    </entry>
+</feed>

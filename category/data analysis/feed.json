@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "一切都是過程 • All posts by \"data analysis\" category",
+    "description": "",
+    "home_page_url": "https://superrjohn.github.io/John",
+    "items": [
+        {
+            "id": "https://superrjohn.github.io/John/2024/12/09/big_data/data_analysis1",
+            "url": "https://superrjohn.github.io/John/2024/12/09/big_data/data_analysis1",
+            "title": "數據分析流程",
+            "date_published": "2024-12-08T17:22:48.948Z",
+            "content_html": "<p>1️⃣: 爬蟲</p>\n<img data-src=\"/John/img/big_data/data_analysis1/1.png\" class=\"abc\">\n<img data-src=\"/John/img/big_data/data_analysis1/2.png\" class=\"abc\">\n<img data-src=\"/John/img/big_data/data_analysis1/3.png\" class=\"abc\">\n<img data-src=\"/John/img/big_data/data_analysis1/4.png\" class=\"abc\">\n<p>2️⃣: 數據分析</p>\n<img data-src=\"/John/img/big_data/data_analysis1/5.png\" class=\"abc\">\n<img data-src=\"/John/img/big_data/data_analysis1/6.png\" class=\"abc\">\n<img data-src=\"/John/img/big_data/data_analysis1/7.png\" class=\"abc\">\n<img data-src=\"/John/img/big_data/data_analysis1/8.png\" class=\"abc\">\n<p>3️⃣: 清洗數據</p>\n<img data-src=\"/John/img/big_data/data_analysis1/9.png\" class=\"abc\">\n<img data-src=\"/John/img/big_data/data_analysis1/10.png\" class=\"abc\">\n<img data-src=\"/John/img/big_data/data_analysis1/11.png\" class=\"abc\">\n<img data-src=\"/John/img/big_data/data_analysis1/12.png\" class=\"abc\">",
+            "tags": [
+                "big data",
+                "data analysis"
+            ]
+        }
+    ]
+}
